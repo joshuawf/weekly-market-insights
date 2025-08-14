@@ -3,7 +3,7 @@ name: Weekly Market Insights Report
 on:
   schedule:
     - cron: '0 13 * * 1'  # Every Monday at 8 AM EST (13:00 UTC)
-  workflow_dispatch:  # Allow manual trigger for testing
+  workflow_dispatch:  # Tests manually
 
 jobs:
   send-report:
