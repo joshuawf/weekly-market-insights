@@ -7,7 +7,7 @@ on:
 
 jobs:
   send-report:
-    timeout-minutes: 10
+    timeout-minutes: 10 # Updated timeout
     runs-on: ubuntu-latest
     steps:
     - name: Checkout code
