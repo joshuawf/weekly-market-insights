@@ -6,3 +6,5 @@
 📊 Sources: 28+ industry publications 
 
 🎯 Focus: Strategic business insights only 
+
+Updated workflow to 10 minutes to avoid timeout issue
